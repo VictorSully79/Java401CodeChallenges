@@ -1,2 +1,5 @@
-package Java401CodeChallenges.Tree;public class Tree {
+package Java401CodeChallenges.Tree;
+
+public class Tree {
+
 }
