@@ -1,9 +1,10 @@
-package Java401CodeChallenges.Tree;
+package java401CodeChallenges.Tree;
 
-public class Node<T> {
 
-    public  class Node<T> left;
-    public  class Node<T> right;
+    public class Node<T> {
+
+    public Node left;
+    public Node right;
     public T value;
 
 
@@ -19,6 +20,7 @@ public class Node<T> {
     }
 
     public Node<T> getLeft() {
+
         return left;
     }
 
