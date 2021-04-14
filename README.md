@@ -37,7 +37,7 @@ Utilize the Single-responsibility principle: any methods you write should be cle
 
 ![WhiteBoard](assets/CC16WB.png)
 
-# Code CHallenge 17
+# Code Challenge 17
 
 ## Extend Trees
 
