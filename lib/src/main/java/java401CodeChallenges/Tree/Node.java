@@ -13,11 +13,8 @@ package java401CodeChallenges.Tree;
         this.right = right;
         this.value = value;
     }
-    @Override
-    public String toString() {
 
-        return "Node{" + ", value=" + value + " left=" + left + ", right=" + right +'}';
-    }
+
 
     public Node<T> getLeft() {
 
