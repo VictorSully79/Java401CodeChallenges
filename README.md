@@ -45,3 +45,15 @@ Utilize the Single-responsibility principle: any methods you write should be cle
 - Write a breadth first traversal method which takes a Binary Tree as its unique input. Without utilizing any of the built-in methods available to your language, traverse the input tree using a Breadth-first approach, and return a list of the values in the tree in the order they were encountered.
 
 ![WhiteBoard](assets/CC17WB.png)
+
+# Code Challenge 18
+
+## Trees
+
+### Write a function called FizzBuzzTree which takes a k-ary tree as an argument.
+### Without utilizing any of the built-in methods available to your language, determine whether or not the value of each node is divisible by 3, 5 or both. Create a new tree with the same structure as the original, but the values modified as follows:
+- If the value is divisible by 3, replace the value with “Fizz”
+- If the value is divisible by 5, replace the value with “Buzz”
+- If the value is divisible by 3 and 5, replace the value with “FizzBuzz”
+- If the value is not divisible by 3 or 5, simply turn the number into a String.
+![WhiteBoard](assets/CC18WBimg
