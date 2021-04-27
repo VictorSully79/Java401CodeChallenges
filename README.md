@@ -46,6 +46,14 @@ Utilize the Single-responsibility principle: any methods you write should be cle
 
 ![WhiteBoard](assets/CC17WB.png)
 
+
+# Code Challenge 26
+# 26 April 2021
+## Insertion Sort
+### Review the pseudocode below, then trace the algorithm by stepping through the process with the provided sample array. Document your explanation by creating a blog article that shows the step-by-step output after each iteration through some sort of visual.
+
+![Walk Through](assets/CC26.png)
+
 # Code Challenge 18
 
 ## Trees
@@ -57,3 +65,4 @@ Utilize the Single-responsibility principle: any methods you write should be cle
 - If the value is divisible by 3 and 5, replace the value with “FizzBuzz”
 - If the value is not divisible by 3 or 5, simply turn the number into a String.
 ![WhiteBoard](assets/CC18WBimg.png)
+
