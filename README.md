@@ -45,3 +45,10 @@ Utilize the Single-responsibility principle: any methods you write should be cle
 - Write a breadth first traversal method which takes a Binary Tree as its unique input. Without utilizing any of the built-in methods available to your language, traverse the input tree using a Breadth-first approach, and return a list of the values in the tree in the order they were encountered.
 
 ![WhiteBoard](assets/CC17WB.png)
+
+# Code Challenge 26
+# 26 April 2021
+## Insertion Sort
+### Review the pseudocode below, then trace the algorithm by stepping through the process with the provided sample array. Document your explanation by creating a blog article that shows the step-by-step output after each iteration through some sort of visual.
+
+![Walk Through](assets/CC26.png)
