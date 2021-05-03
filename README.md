@@ -46,7 +46,6 @@ Utilize the Single-responsibility principle: any methods you write should be cle
 
 ![WhiteBoard](assets/CC17WB.png)
 
-
 # Code Challenge 26
 # 26 April 2021
 ## Insertion Sort
@@ -54,15 +53,19 @@ Utilize the Single-responsibility principle: any methods you write should be cle
 
 ![Walk Through](assets/CC26.png)
 
-# Code Challenge 18
+# Code Challenge 30
+# 29 April 2021
+## Hash Table Implementation
+### 
+- add: takes in both the key and value. This method should hash the key, and add the key and value pair to the table, handling collisions as needed.
+- get: takes in the key and returns the value from the table.
+- contains: takes in the key and returns a boolean, indicating if the key exists in the table already.
+- hash: takes in an arbitrary key and returns an index in the collection.
+  Write tests to prove the following functionality:
 
-## Trees
-
-### Write a function called FizzBuzzTree which takes a k-ary tree as an argument.
-### Without utilizing any of the built-in methods available to your language, determine whether or not the value of each node is divisible by 3, 5 or both. Create a new tree with the same structure as the original, but the values modified as follows:
-- If the value is divisible by 3, replace the value with “Fizz”
-- If the value is divisible by 5, replace the value with “Buzz”
-- If the value is divisible by 3 and 5, replace the value with “FizzBuzz”
-- If the value is not divisible by 3 or 5, simply turn the number into a String.
-![WhiteBoard](assets/CC18WBimg.png)
-
+- Adding a key/value to your hashtable results in the value being in the data structure
+- Retrieving based on a key returns the value stored
+- Successfully returns null for a key that does not exist in the hashtable
+- Successfully handle a collision within the hashtable
+- Successfully retrieve a value from a bucket within the hashtable that has a collision
+- Successfully hash a key to an in-range value
