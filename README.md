@@ -69,3 +69,11 @@ Utilize the Single-responsibility principle: any methods you write should be cle
 - Successfully handle a collision within the hashtable
 - Successfully retrieve a value from a bucket within the hashtable that has a collision
 - Successfully hash a key to an in-range value
+
+# Code CHallenge 31
+# 3 May 2021
+## Hash Table Continued
+### Feature Task
+- Write a function that accepts a lengthy string parameter.
+- Without utilizing any of the built-in library methods available to your language, return the first word to occur more than once in that provided string.
+
