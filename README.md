@@ -70,7 +70,7 @@ Utilize the Single-responsibility principle: any methods you write should be cle
 - Successfully retrieve a value from a bucket within the hashtable that has a collision
 - Successfully hash a key to an in-range value
 
-# Code CHallenge 31
+# Code Challenge 31
 # 3 May 2021
 ## Hash Table Continued
 ### Feature Task
