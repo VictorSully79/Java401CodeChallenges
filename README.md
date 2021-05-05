@@ -77,3 +77,9 @@ Utilize the Single-responsibility principle: any methods you write should be cle
 - Write a function that accepts a lengthy string parameter.
 - Without utilizing any of the built-in library methods available to your language, return the first word to occur more than once in that provided string.
 
+# Code Challenge 32
+# 4 May 2021
+## Find common values in 2 Binary Trees 
+- Write a function called tree_intersection that takes two binary tree parameters.
+- Without utilizing any of the built-in library methods available to your language, return a set of values found in both trees.
+
